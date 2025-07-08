@@ -15,7 +15,6 @@ B.S. in Applied Physics, Central South University, 2018.
 
 Ph.D. in Theoretical Physics, Zhejiang University, 2024.
 
-
 Work experience
 ======
 2024-present: Postdoctoral Researcher at Pengcheng Laboratory.
