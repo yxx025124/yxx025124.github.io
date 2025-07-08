@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Ph.D. in Theoretical Physics from the School of Physics at Zhejiang University. My research interests focus on nonlinear wave propagation in excitable media (e.g., cardiac action potentials) and mathematical modeling of cardiac electrophysiology.
+I hold a Ph.D. in theoretical physics from the School of Physics at Zhejiang University. My research interests focus on nonlinear wave propagation in excitable media (e.g., cardiac action potentials) and mathematical modeling of cardiac electrophysiology.
 
 Education
 ======
